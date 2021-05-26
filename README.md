@@ -16,7 +16,7 @@ FA Utilities is a Discord bot coded in JavaScript with [Discord.js](https://disc
 
 ### Commands List 💫 
 
-Karma has a lot of features, with **8 main categories**:
+FA Utilities has a lot of features, with **6 main categories**:
 
 *   👩‍💼 **Information**: `info`, `help`, `ping`, `uptime`! 
 *   👻 **Fun**: `emojify`!
