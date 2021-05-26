@@ -21,7 +21,7 @@ Karma has a lot of features, with **8 main categories**:
 *   👩‍💼 **Information**: `info`, `help`, `ping`, `uptime`! 
 *   👻 **Fun**: `emojify`!
 *   🖨️ **Utilities**: `alert`, `apply`, `break`, `settings`! 
-*   ✉️ **Other**: `serverinfo`, `avatar`, `snipe`, `wiki`!
+*   ✉️ **Other**: `serverinfo`, `avatar`!
 *   👑 **Owner**: `eval`, `reload`
 
 ## ✨ Contributors :
