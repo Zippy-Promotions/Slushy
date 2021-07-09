@@ -1,6 +1,6 @@
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="FA" src="https://cdn.discordapp.com/avatars/796441707129733131/1462bd4f1e2b7525d7b72c2f98f0c78c.png?size=1024"> 
 
-# FA Utilities ✨
+# Frosty ✨
 
 >  A Custom Made for [Frozen Advertisements]().
 
