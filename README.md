@@ -2,17 +2,17 @@
 
 # Frosty ✨
 
->  A Custom Made for [Frozen Advertisements](https://discord.gg/ucW94B7p).
+>  A Custom Made Bot for [Frozen Advertisements](https://discord.gg/ucW94B7p).
 
-FA Utilities is a Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by [MrFluffycloud](https://github.com/MrFluffycloud).  
+Frosty is a Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by [MrFluffycloud](https://github.com/MrFluffycloud).  
 
 ## Categories 📑
+- [x] Information
+- [x] Utilities
 - [x] Moderation
-- [x] Partnership
-- [x] Advertisement Management
-- [x] Staff Management
-- [x] Utility
-- [X] Fun
+- [x] Modmail
+- [x] Fun
+- [X] Other
 
 ### Commands List 💫 
 
