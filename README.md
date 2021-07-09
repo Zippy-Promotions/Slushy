@@ -2,7 +2,7 @@
 
 # Frosty ✨
 
->  A Custom Made for [Frozen Advertisements]().
+>  A Custom Made for [Frozen Advertisements](https://discord.gg/ucW94B7p).
 
 FA Utilities is a Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by [MrFluffycloud](https://github.com/MrFluffycloud).  
 
