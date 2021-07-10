@@ -1,7 +1,7 @@
 
 <img width="150" height="150" align="left" style="float: left; margin: 0 10px 0 0;" alt="Frpsty" src="https://cdn.discordapp.com/avatars/796441707129733131/6c3aaad69e7d35a020e33ee84dbfa152.png?size=1024"> 
 
-# Frosty ✨
+# Frosty 🥤
 
 >  A Custom Made Bot for [Frozen Advertisements](https://discord.gg/ucW94B7p).
 
