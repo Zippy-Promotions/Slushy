@@ -7,6 +7,19 @@
 
 Frosty is a Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by [MrFluffycloud](https://github.com/MrFluffycloud).  
 
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-2.0.1-blue.svg?style=for-the-badge" />
+  <a href="https://github.com/MrFluffycloud/Frosty/tree/main/Docs" target="_blank">
+    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/MrFluffycloud/Frosty/graphs/commit-activity" target="_blank">
+    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/MrFluffycloud/Frosty/blob/main/LICENSE" target="_blank">
+    <img alt="License: GNU General Public License" src="https://img.shields.io/github/license/MrFluffycloud/Frosty?style=for-the-badge" />
+  </a>
+</p>
+
 ## Categories 📑
  - [x] Information
  - [x] Utilities
