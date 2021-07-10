@@ -52,3 +52,13 @@ Thanks goes to these wonderful people :
      
   </tr>
 </table>
+
+## ❤️ Show your support
+
+Give a ⭐️ if you liked this project!
+
+## 📝 License
+
+Copyright © 2021 [MrFluffycloud](https://github.com/MrFluffycloud).<br />
+This project is [GNU General Public License](https://github.com/MrFluffycloud/Frosty/blob/master/LICENSE) licensed.
+
