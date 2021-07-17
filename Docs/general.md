@@ -1,6 +1,6 @@
-# General
+# 📚 General
 
-## Avatar
+## 🙋 Avatar
 **Description:** This Method lets you see the Avatar/Profile Pic of any User in the Server.
 
 **Usage:** `fa!avatar @user`
@@ -10,7 +10,7 @@
 **Example:** `fa!avatar @stratos.exe#8701`
 
 
-## Sinfo
+## 🖥 Sinfo
 **Description:** This Method gives you Information about the Server.
 
 **Usage:** `fa!sinfo`
@@ -20,7 +20,7 @@
 **Example:** 
 
 
-## Uinfo
+## 🔓 Uinfo
 **Description:** This Method gives you Information about a specific User.
 
 **Usage:** `fa!uinfo @user`
