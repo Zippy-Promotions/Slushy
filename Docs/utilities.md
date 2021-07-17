@@ -15,6 +15,8 @@
 Description: To Add an Alert Channel:
 
 Usage: fa!alert add
+
+Example: fa!alert add #rules
 ```
 
 #### Name `remove`
@@ -22,11 +24,13 @@ Usage: fa!alert add
 Description: To Remove an Alert Channel:
 
 Usage: fa!alert remove
+
+Example: fa!alert remove #rules
 ```
 
 #### Name `view`
 ```
-Description: To View your Alert Channel:
+Description: To View your Alert Message:
 
 Usage: fa!alert view
 ```
@@ -36,6 +40,8 @@ Usage: fa!alert view
 Description: To Set the Alert Message:
 
 Usage: fa!alert set
+
+Example: fa!alert set Alert Message
 ```
 
 
@@ -45,3 +51,33 @@ Usage: fa!alert set
 **Usage:** `fa!apply`
 
 **Aliases:** `staff-apply`
+
+
+## Break
+**Description:** This Method Adds or Removes Staff Members From Break.
+
+**Usage:** `fa!break`
+
+**Aliases:** `break-request`
+
+### Sub-Commands
+
+#### Name `add`
+```
+Description: To add a Break to a Staff Member.
+
+Usage: fa!break add @user (or ID) time
+
+Example: fa!break add @stratos.exe#8701 7d
+
+Extra Info: The Time should only be written in days!
+```
+
+#### Name `remove`
+```
+Description: To remove a Break from a Staff Member.
+
+Usage: fa!break remove @user (or ID)
+
+Example: fa!break remove @stratos.exe#8701
+```
