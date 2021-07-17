@@ -31,7 +31,7 @@
 
 
 ## Warn
-**Description:** This Method 
+**Description:** This Method lets you Warn a User on your Server. 
 
 **Usage:** `fa!warn @user`
 
