@@ -1,6 +1,6 @@
-# Fun
+# 🎮 Fun
 
-## Emojify
+## 😀 Emojify
 **Description:** This Method lets you Emojify your Text.
 
 **Usage:** `fa!emojify [text]`
