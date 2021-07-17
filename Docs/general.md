@@ -23,7 +23,7 @@
 ## Uinfo
 **Description:** This Method gives you Information about a specific User.
 
-**Usage:** `fa!uinfo [member]`
+**Usage:** `fa!uinfo @user`
 
 **Aliases:** `whois`
 
