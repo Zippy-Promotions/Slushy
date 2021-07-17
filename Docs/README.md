@@ -2,9 +2,9 @@
 
 > * [Commands](/README.md 'Commands')
 >
-> * [Information](/information.md 'All the information commands?')
+> * [Information](/docs/information.md 'All the information commands?')
 >
-> * [General](/general.md 'General Stuff, you know?') (https://github.com/MrFluffycloud/Frosty/blob/main/Docs/information.md)
+> * [General](/general.md 'General Stuff, you know?')
 >
 > * [Fun](/fun.md '😄😅🤣')
 >
