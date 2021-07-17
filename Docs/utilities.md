@@ -81,3 +81,31 @@ Usage: fa!break remove @user (or ID)
 
 Example: fa!break remove @stratos.exe#8701
 ```
+
+
+## Bug
+**Description:** This Method lets you send a Bug Report to the Bot Developer
+
+**Usage:** `fa!bug [bug] <image>`
+
+**Aliases:** `bugreport,report,bug-report`
+
+**Example: `fa!bug The Bot is not responding to the Break Command.`
+
+
+## Embed
+**Description:** This Method lets you create an Embed in the Channel you type the Command.
+
+**Usage:** `fa!embed`
+
+**Aliases:** `There are no known aliases to this Command`
+
+
+## Move
+**Description:** This Method lets you move the Channel you type the command on to another Category.
+
+**Usage:** `fa!move [category name | id]`
+
+**Aliases:** `discussion-move`
+
+**Example:** `fa!move TestCategory1`
