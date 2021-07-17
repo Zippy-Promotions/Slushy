@@ -90,7 +90,7 @@ Example: fa!break remove @stratos.exe#8701
 
 **Aliases:** `bugreport,report,bug-report`
 
-**Example: `fa!bug The Bot is not responding to the Break Command.`
+**Example:** `fa!bug The Bot is not responding to the Break Command.`
 
 
 ## Embed
