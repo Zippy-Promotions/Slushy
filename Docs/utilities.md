@@ -17,7 +17,7 @@
 **Usage:** `fa!alert add`
 
 
-#### Name: `remove`
+#### **Name:** `remove`
 
 **Description:** To remove an Alert Channel:
 
