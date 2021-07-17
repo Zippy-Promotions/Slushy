@@ -12,5 +12,3 @@
 
 [GitHub](https://github.com/MrFluffycloud/Frosty)
 [Getting Started](#docsify)
-
-![color](#333)
