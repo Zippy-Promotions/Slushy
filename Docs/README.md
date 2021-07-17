@@ -1,6 +1,6 @@
 ## Documentaion <!-- {docsify-ignore-all} -->
 
-> * [Commands](Docs/home/Commands.md 'Commands')
+> * [Commands](home/Commands.md 'Commands')
 >
 > * [Information](/Docs/information.md 'All the information commands?')
 >
