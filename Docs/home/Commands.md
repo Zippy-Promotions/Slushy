@@ -2,9 +2,9 @@
 
 Frosty has a lot of features, with **6 main categories**:
 
-*    ❓  **Information:** `help` `stats` `ping` `uptime`
-*    📚 **General:** `avatar` `sinfo` `uinfo`
-*    🖨️ **Utilities:** `alert` `apply` `break` `bug` `embed` `move`
-*    🔨 **Moderation:** `ban` `unban` `kick` `warn`
-*    ✉️ **Modmail:** `guide` `train`
-*    🎮 **Fun:** `emojify`
+*    ❓  [**Information:**](/Docs/information.md) `help` `stats` `ping` `uptime`
+*    📚 [**General:**](/Docs/general.md) `avatar` `sinfo` `uinfo`
+*    🖨️ [**Utilities:**](/Docs/utilities.md) `alert` `apply` `break` `bug` `embed` `move`
+*    🔨 [**Moderation:**](/Docs/moderation.md) `ban` `unban` `kick` `warn`
+*    ✉️ [**Modmail:**](/Docs/modmail.md) `guide` `train`
+*    🎮 [**Fun:**](/Docs/fun.md) `emojify`
