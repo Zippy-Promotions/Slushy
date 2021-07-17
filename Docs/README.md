@@ -2,7 +2,7 @@
 
 > * [Commands](/README.md 'Commands')
 >
-> * [Information](/docs/information.md 'All the information commands?')
+> * [Information](/Docs/information.md 'All the information commands?')
 >
 > * [General](/general.md 'General Stuff, you know?')
 >
