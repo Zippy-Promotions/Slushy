@@ -1,6 +1,6 @@
-# Modmail
+# ✉️ Modmail
 
-## Guide
+## 📜 Guide
 **Description:** This Method gives you a Guide for using Modmail on Frozen Advertisements!
 
 **Usage:** `fa!guide`
@@ -8,7 +8,7 @@
 **Aliases:** `modmailguide` `helpmodmail` `modmailhelp`
 
 
-## Train
+## 💼 Train
 **Description:** This Method lets you start your Modmail Training to get your Modmail License.
 
 **Usage:** `fa!train`
