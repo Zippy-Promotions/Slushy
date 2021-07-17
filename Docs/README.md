@@ -4,14 +4,14 @@
 >
 > * [Information](/Docs/information.md 'All the information commands?')
 >
-> * [General](/general.md 'General Stuff, you know?')
+> * [General](/Docs/general.md 'General Stuff, you know?')
 >
-> * [Fun](/fun.md '😄😅🤣')
+> * [Fun](/Docs/fun.md '😄😅🤣')
 >
-> * [Moderation](/moderation.md 'BAN HAMMER!')
+> * [Moderation](/Docs/moderation.md 'BAN HAMMER!')
 >
-> * [Modmail](/modmail.md 'MOODMAIL STUFF')
+> * [Modmail](/Docs/modmail.md 'MOODMAIL STUFF')
 >
-> * [Utilities](/utilities.md 'Usefull stuff')
+> * [Utilities](/Docs/utilities.md 'Usefull stuff')
 >
-> * [Other](/other.md 'Rest of the stuff')
+> * [Other](/Docs/other.md 'Rest of the stuff')
