@@ -13,9 +13,3 @@
    - [Moderation](Docs/moderation.md 'BAN HAMMER!')
    - [Modmail](Docs/modmail.md 'MOODMAIL STUFF')
    - [Fun](Docs/fun.md '😄😅🤣')
-
-- About
-
-  - [Team](/Docs/home/Contributors.md)
-  - [Discord](https://discord.gg/BN4WZGavED)
-  - [Home](/)
