@@ -4,7 +4,7 @@
 > 
 > * [Commands](home/Commands.md 'Commands')
 >
-> * [Information](/Docs/information.md 'All the information commands?')
+> ❓ * [Information](/Docs/information.md 'All the information commands?')
 >
 > * [General](/Docs/general.md 'General Stuff, you know?')
 >
