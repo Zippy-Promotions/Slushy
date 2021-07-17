@@ -17,8 +17,6 @@
 
 **Alias:** `There is no known Alias for this Command`
 
-**Example:** 
-
 
 ## 🔓 Uinfo
 **Description:** This Method gives you Information about a specific User.
