@@ -84,7 +84,7 @@ Example: fa!break remove @stratos.exe#8701
 
 
 ## Bug
-**Description:** This Method lets you send a Bug Report to the Bot Developer
+**Description:** This Method lets you send a Bug Report to the Bot Developer.
 
 **Usage:** `fa!bug [bug] <image>`
 
