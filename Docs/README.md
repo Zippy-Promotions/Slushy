@@ -1,4 +1,4 @@
-## 📜 documentation <!-- {docsify-ignore-all} -->
+## 📜 Documentation <!-- {docsify-ignore-all} -->
 
 > * [Commands](home/Commands.md 'Commands')
 >
