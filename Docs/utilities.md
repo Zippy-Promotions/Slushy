@@ -2,7 +2,7 @@
 
 
 ## Alert
-**Description:** This Method Manages your Alert Channels
+**Description:** This Method Manages your Alert Channels.
 
 **Usage:** `fa!alert`
 
@@ -12,29 +12,36 @@
 
 #### Name `add`
 ```
-Description: To add an Alert Channel:
+Description: To Add an Alert Channel:
 
 Usage: fa!alert add
 ```
 
 #### Name `remove`
 ```
-
-Description: To remove an Alert Channel:
+Description: To Remove an Alert Channel:
 
 Usage: fa!alert remove
 ```
 
 #### Name `view`
 ```
-Description: To view your Alert Channel:
+Description: To View your Alert Channel:
 
 Usage: fa!alert view
 ```
 
 #### Name `set`
 ```
-Description: To set the Alert Message:
+Description: To Set the Alert Message:
 
 Usage: fa!alert set
 ```
+
+
+## Apply
+**Description:** By doing this Method you can apply to join FA's Staff Team!
+
+**Usage:** `fa!apply`
+
+**Aliases:** `staff-apply`
