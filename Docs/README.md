@@ -6,10 +6,10 @@
 >
 > * [General](/Docs/general.md 'General Stuff, you know?')
 >
-> * [Fun](/Docs/fun.md '😄😅🤣')
+> * [Utilities](/Docs/utilities.md 'Usefull stuff')
 >
 > * [Moderation](/Docs/moderation.md 'BAN HAMMER!')
 >
 > * [Modmail](/Docs/modmail.md 'MOODMAIL STUFF')
 >
-> * [Utilities](/Docs/utilities.md 'Usefull stuff')
+> * [Fun](/Docs/fun.md '😄😅🤣')
