@@ -12,10 +12,11 @@ Using `fa!help "cmd"` will give you extra info about that specified Command
 
 **Example:** `fa!help stats`
 
+
 ## Stats
 **Description:** This Method gives you some information about the bot.
 
-**Usage:** 
+**Usage:** `fa!stats`
 
 **Alias:** `info`
 
@@ -23,10 +24,14 @@ Using `fa!help "cmd"` will give you extra info about that specified Command
 ## Ping
 **Description:** This Method  
 
-**Usage:**
+**Usage:** `fa!ping`
 
-**Alias:** 
+**Alias:** `latency`
 
 
 ## Uptime
-**Description:**
+**Description:** This Method gives the bot's uptime stats.
+
+**Usage:** `fa!uptime`
+
+**Alias:** `uptimes`
