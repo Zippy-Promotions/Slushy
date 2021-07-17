@@ -5,7 +5,7 @@
 
 **Usage:** `fa!avatar @user`
 
-**Aliases:** `pfp`
+**Alias:** `pfp`
 
 **Example:** `fa!avatar @stratos.exe#8701`
 
@@ -15,7 +15,7 @@
 
 **Usage:** `fa!sinfo`
 
-**Aliases:** `There are no known Aliases for this Command`
+**Alias:** `There is no known Alias for this Command`
 
 **Example:** 
 
@@ -25,6 +25,6 @@
 
 **Usage:** `fa!uinfo @user`
 
-**Aliases:** `whois`
+**Alias:** `whois`
 
 **Example:** `fa!uinfo @stratos.exe#8701`
