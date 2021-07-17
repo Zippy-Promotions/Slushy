@@ -1,5 +1,7 @@
 ## 📜 Documentation <!-- {docsify-ignore-all} -->
 
+> * [Categories](home/Categories.md 'Commands')
+> 
 > * [Commands](home/Commands.md 'Commands')
 >
 > * [Information](/Docs/information.md 'All the information commands?')
