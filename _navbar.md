@@ -6,7 +6,7 @@
   - [License](Docs/home/License.md 'Terms & Copyright')
 
 - [Guide](/Docs/README.md 'A Total Run thru for using the Bot.')
-   - [Commands](/Docs/README.md 'Commands')
+   - [Commands](/Docs/home/Commands.md 'Commands')
    - [Information](Docs/information.md 'All the information commands?')
    - [General](Docs/general.md 'General Stuff, you know?')
    - [Utilities](Docs/utilities.md 'Usefull stuff')
