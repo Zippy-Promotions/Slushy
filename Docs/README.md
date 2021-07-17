@@ -1,6 +1,6 @@
 ## Documentaion <!-- {docsify-ignore-all} -->
 
-> * [Commands](/README.md 'Commands')
+> * [Commands](Docs/home/Commands.md 'Commands')
 >
 > * [Information](/Docs/information.md 'All the information commands?')
 >
@@ -13,5 +13,3 @@
 > * [Modmail](/Docs/modmail.md 'MOODMAIL STUFF')
 >
 > * [Utilities](/Docs/utilities.md 'Usefull stuff')
->
-> * [Other](/Docs/other.md 'Rest of the stuff')
