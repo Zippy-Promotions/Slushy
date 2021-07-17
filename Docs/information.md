@@ -1,6 +1,6 @@
-# Information
+# ❓ Information
 
-## Help
+## ❔ Help
 **Description:** This Method gives you a list of all commands that you can use.
 
 **Usage:** `fa!help`
@@ -13,7 +13,7 @@ Using `fa!help "cmd"` will give you extra info about that specified Command
 **Example:** `fa!help stats`
 
 
-## Stats
+## 📊 Stats
 **Description:** This Method gives you some information about the bot.
 
 **Usage:** `fa!stats`
@@ -21,7 +21,7 @@ Using `fa!help "cmd"` will give you extra info about that specified Command
 **Alias:** `info`
 
 
-## Ping
+## 📉 Ping
 **Description:** This Method gives you information on how fast the Bot can respond to you.
 
 **Usage:** `fa!ping`
@@ -29,7 +29,7 @@ Using `fa!help "cmd"` will give you extra info about that specified Command
 **Alias:** `latency`
 
 
-## Uptime
+## 📈 Uptime
 **Description:** This Method gives the bot's uptime stats.
 
 **Usage:** `fa!uptime`
