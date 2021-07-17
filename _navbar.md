@@ -1,5 +1,5 @@
 * About
 
   * [Team](quickstart.md)
-  * [Discord](`https://discord.gg`)
+  * [Discord](https://discord.gg/BN4WZGavED)
   * [Home](/)
