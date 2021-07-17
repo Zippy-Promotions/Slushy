@@ -5,6 +5,6 @@
 
 **Usage:** `fa!emojify [text]`
 
-**Aliases:** `emojified`
+**Alias:** `emojified`
 
 **Example:** `fa!emojify Hello`
