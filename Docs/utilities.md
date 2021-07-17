@@ -10,28 +10,28 @@
 
 ### Sub-Commands
 
-**Name:** `add`
+#### Name: `add`
 
 **Description:** To add an Alert Channel:
 
 **Usage:** `fa!alert add`
 
 
-**Name:** `remove`
+#### Name: `remove`
 
 **Description:** To remove an Alert Channel:
 
 **Usage:** `fa!alert remove`
 
 
-**Name:** `view`
+#### Name: `view`
 
 **Description:** To view your Alert Channel:
 
 **Usage:** `fa!alert view`
 
 
-**Name:** `set`
+#### Name: `set`
 
 **Description:** To set the Alert Message:
 
