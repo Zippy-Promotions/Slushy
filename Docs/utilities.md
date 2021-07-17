@@ -17,12 +17,13 @@
 **Usage:** `fa!alert add`
 
 
+```
 #### Name `remove`
 
 **Description:** To remove an Alert Channel:
 
 **Usage:** `fa!alert remove`
-
+```
 
 #### Name `view`
 
@@ -36,3 +37,6 @@
 **Description:** To set the Alert Message:
 
 **Usage:** `fa!alert set`
+
+
+
