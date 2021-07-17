@@ -4,7 +4,7 @@
 >
 > * [Information](/information.md 'All the information commands?')
 >
-> * [General](/general.md 'General Stuff, you know?')
+> * [General](/general.md 'General Stuff, you know?') (https://github.com/MrFluffycloud/Frosty/blob/main/Docs/information.md)
 >
 > * [Fun](/fun.md '😄😅🤣')
 >
