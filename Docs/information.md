@@ -22,7 +22,7 @@ Using `fa!help "cmd"` will give you extra info about that specified Command
 
 
 ## Ping
-**Description:** This Method  
+**Description:** This Method gives you information on how fast the Bot can respond to you.
 
 **Usage:** `fa!ping`
 
