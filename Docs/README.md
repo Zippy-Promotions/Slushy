@@ -1,8 +1,6 @@
 ## 📜 Documentation <!-- {docsify-ignore-all} -->
-
-> * 📓 [Categories](home/Categories.md 'Commands')
-> 
-> * 🤖 [Commands](home/Commands.md 'Commands')
+ 
+### 🤖 Commands
 >
 > * ❓ [Information](/Docs/information.md 'All the information commands?')
 >
