@@ -10,19 +10,19 @@
 **Example:** `fa!avatar @stratos.exe#8701`
 
 
-## 🖥 Sinfo
+## 🖥 Serverinfo
 **Description:** This Method gives you Information about the Server.
 
-**Usage:** `fa!sinfo`
+**Usage:** `fa!serverinfo`
 
-**Alias:** `There is no known Alias for this Command`
+**Alias:** `sinfo`
 
 
-## 🔓 Uinfo
+## 🔓 Userinfo
 **Description:** This Method gives you Information about a specific User.
 
-**Usage:** `fa!uinfo @user`
+**Usage:** `fa!userinfo @user | id`
 
-**Alias:** `whois`
+**Alias:** `whois, uinfo`
 
 **Example:** `fa!uinfo @stratos.exe#8701`
