@@ -14,3 +14,4 @@
     - [Moderation](Docs/moderation.md 'BAN HAMMER!')
     - [Modmail](Docs/modmail.md 'MOODMAIL STUFF')
     - [Fun](Docs/fun.md '😄😅🤣')
+  - [Guides](/Docs/README.md 'Commands')
