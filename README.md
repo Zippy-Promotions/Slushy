@@ -15,6 +15,6 @@ Frosty is a Discord bot coded in JavaScript with [Discord.js](https://discord.js
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge" />
   </a>
   <a href="https://github.com/MrFluffycloud/Frosty/blob/main/LICENSE" target="_blank">
-    <img alt="License: GNU General Public License" src="https://img.shields.io/github/license/MrFluffycloud/Frosty?style=for-the-badge" />
+    <img alt="License: Apache 2.0 License" src="https://img.shields.io/github/license/MrFluffycloud/Frosty?logo=apache&style=for-the-badge" />
   </a>
 </p>
