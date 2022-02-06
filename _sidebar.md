@@ -1,7 +1,7 @@
 - [Home](/)
-
+<!--
   - [Categories](Docs/home/Categories.md 'List of all the categories the bot currently has.')
-  - [Commands](Docs/home/Commands.md "Bot's Commands?")
+  - [Commands](Docs/home/Commands.md "Bot's Commands?") -->
   - [Contributors](Docs/home/Contributors.md 'This was possible cuz of these geniuses')
   - [Support](Docs/home/Support.md 'Support this project!')
   - [License](Docs/home/License.md 'Terms & Copyright')
