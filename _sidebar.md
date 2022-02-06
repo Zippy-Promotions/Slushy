@@ -5,7 +5,7 @@
   - [Contributors](Docs/home/Contributors.md 'This was possible cuz of these geniuses')
   - [Support](Docs/home/Support.md 'Support this project!')
   - [License](Docs/home/License.md 'Terms & Copyright')
-
+<!--
 - [Documentation](/Docs/README.md 'A Total Run thru for using the Bot.')
   - [Commands](/Docs/README.md 'Commands')
     - [Information](Docs/information.md 'All the information commands?')
@@ -14,4 +14,4 @@
     - [Moderation](Docs/moderation.md 'BAN HAMMER!')
     - [Modmail](Docs/modmail.md 'MOODMAIL STUFF')
     - [Fun](Docs/fun.md '😄😅🤣')
-  - [Guides](/Docs/README.md 'Commands')
+  - [Guides](/Docs/README.md 'Commands') -->
