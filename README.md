@@ -6,6 +6,8 @@
 
 Slushy is a Discord bot coded in JavaScript with [Discord.js](https://discord.js.org) by [MrFluffycloud](https://github.com/MrFluffycloud).
 
+![Alt](https://repobeats.axiom.co/api/embed/397e0e8e1078d3182dee64933f6547fa59b79146.svg "Repobeats analytics image")
+
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-2.0.1-blue.svg?style=for-the-badge" />
   <a href="https://github.com/Zippy-Promotions/Slushy/tree/main/Docs" target="_blank">
